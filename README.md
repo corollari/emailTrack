@@ -1,4 +1,4 @@
-# emailTimeServer
+# emailTrack
 Flask server that tracks invisible pixels
 
 Originally it was built with the intention of being used to handle the "message read" feature (aka "blue tick") of the emailTime app (which is also open-source and can be found here), which attaches tracking pixels to emails to monitor when messages are read, but you can use it for whatever you want.
